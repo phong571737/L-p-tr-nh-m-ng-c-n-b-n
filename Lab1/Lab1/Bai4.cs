@@ -115,5 +115,10 @@ namespace Lab1
                 return;
             }
         }
+
+        private void InputName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

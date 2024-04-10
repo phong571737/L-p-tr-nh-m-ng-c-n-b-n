@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|e:\\basic network programing\\practice\\lab1\\lab2\\lab2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|e:\\basic network programing\\practice\\lab1\\lab2\\lab2\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|e:\\basic network programing\\practice\\lab1\\lab2\\lab2\\bai6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|e:\\basic network programing\\practice\\lab1\\lab2\\lab2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|e:\\basic network programing\\practice\\lab1\\lab2\\lab2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|e:\\basic network programing\\practice\\lab1\\lab2\\lab2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\lab2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C33CD06-0766-4807-97F9-2C79B1A0F61E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,120 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Lab2\\Program.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Program.cs",
-              "RelativeToolTip": "Lab2\\Program.cs",
+              "Title": "Bai6.Designer.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai6.Designer.cs",
+              "RelativeDocumentMoniker": "Lab2\\Bai6.Designer.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai6.Designer.cs",
+              "RelativeToolTip": "Lab2\\Bai6.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:09:43.016Z"
+              "WhenOpened": "2024-04-10T16:29:09.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "main.Designer.cs",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\main.Designer.cs",
-              "RelativeDocumentMoniker": "Lab2\\main.Designer.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\main.Designer.cs",
-              "RelativeToolTip": "Lab2\\main.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Bai4.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai4.cs",
+              "RelativeDocumentMoniker": "Lab2\\Bai4.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai4.cs",
+              "RelativeToolTip": "Lab2\\Bai4.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAA2wK4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:09:34.301Z",
+              "WhenOpened": "2024-04-10T16:09:20.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Bai7.cs [Design]",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai7.cs",
-              "RelativeDocumentMoniker": "Lab2\\Bai7.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai7.cs [Design]",
-              "RelativeToolTip": "Lab2\\Bai7.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:09:06.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bai6.cs [Design]",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai6.cs",
-              "RelativeDocumentMoniker": "Lab2\\Bai6.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai6.cs [Design]",
-              "RelativeToolTip": "Lab2\\Bai6.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:08:59.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Bai5.cs [Design]",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai5.cs",
-              "RelativeDocumentMoniker": "Lab2\\Bai5.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai5.cs [Design]",
-              "RelativeToolTip": "Lab2\\Bai5.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:08:48.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Bai4.cs [Design]",
               "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai4.cs",
               "RelativeDocumentMoniker": "Lab2\\Bai4.cs",
               "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai4.cs [Design]",
               "RelativeToolTip": "Lab2\\Bai4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:08:41.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Bai3.cs [Design]",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai3.cs",
-              "RelativeDocumentMoniker": "Lab2\\Bai3.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai3.cs [Design]",
-              "RelativeToolTip": "Lab2\\Bai3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:08:30.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Bai2.cs [Design]",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai2.cs",
-              "RelativeDocumentMoniker": "Lab2\\Bai2.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai2.cs [Design]",
-              "RelativeToolTip": "Lab2\\Bai2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:08:18.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bai1.cs [Design]",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai1.cs",
-              "RelativeDocumentMoniker": "Lab2\\Bai1.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai1.cs [Design]",
-              "RelativeToolTip": "Lab2\\Bai1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:08:02.332Z"
+              "WhenOpened": "2024-04-10T16:10:32.145Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cs [Design]",
-              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\main.cs",
-              "RelativeDocumentMoniker": "Lab2\\main.cs",
-              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\main.cs [Design]",
-              "RelativeToolTip": "Lab2\\main.cs [Design]",
+              "Title": "Bai6.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai6.cs",
+              "RelativeDocumentMoniker": "Lab2\\Bai6.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai6.cs",
+              "RelativeToolTip": "Lab2\\Bai6.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAmwJQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T08:53:37.664Z",
+              "WhenOpened": "2024-04-10T15:41:09.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai7.cs",
+              "RelativeDocumentMoniker": "Lab2\\Bai7.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai7.cs",
+              "RelativeToolTip": "Lab2\\Bai7.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAqwFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:49:50.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai7.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai7.cs",
+              "RelativeDocumentMoniker": "Lab2\\Bai7.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai7.cs [Design]",
+              "RelativeToolTip": "Lab2\\Bai7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:37:52.221Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai6.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai6.cs",
+              "RelativeDocumentMoniker": "Lab2\\Bai6.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab2\\Lab2\\Bai6.cs [Design]",
+              "RelativeToolTip": "Lab2\\Bai6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:13:04.475Z",
               "EditorCaption": " [Design]"
             }
           ]

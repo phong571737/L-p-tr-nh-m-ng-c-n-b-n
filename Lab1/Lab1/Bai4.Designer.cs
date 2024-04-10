@@ -84,11 +84,13 @@
             // 
             // InputName
             // 
+            this.InputName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.InputName.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.InputName.Location = new System.Drawing.Point(207, 64);
             this.InputName.Name = "InputName";
             this.InputName.Size = new System.Drawing.Size(296, 34);
             this.InputName.TabIndex = 11;
+            this.InputName.TextChanged += new System.EventHandler(this.InputName_TextChanged);
             // 
             // label4
             // 
