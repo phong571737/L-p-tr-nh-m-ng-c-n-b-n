@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\udpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\udpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\udpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\udpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\udpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|e:\\basic network programing\\practice\\lab1\\lab3\\lab3\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16F38029-7282-49B5-8A81-9B7DCFF7326A}|Lab3\\Lab3.csproj|solutionrelative:lab3\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPServer.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\TCPServer.cs",
+              "RelativeDocumentMoniker": "Lab3\\TCPServer.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\TCPServer.cs",
+              "RelativeToolTip": "Lab3\\TCPServer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:24:31.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\TCPClient.cs",
+              "RelativeDocumentMoniker": "Lab3\\TCPClient.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\TCPClient.cs",
+              "RelativeToolTip": "Lab3\\TCPClient.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:23:31.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCPServer.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\TCPServer.cs",
+              "RelativeDocumentMoniker": "Lab3\\TCPServer.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\TCPServer.cs [Design]",
+              "RelativeToolTip": "Lab3\\TCPServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:23:16.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TCPClient.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\TCPClient.cs",
+              "RelativeDocumentMoniker": "Lab3\\TCPClient.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\TCPClient.cs [Design]",
+              "RelativeToolTip": "Lab3\\TCPClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:22:40.464Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai3.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Bai3.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai3.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Bai3.cs [Design]",
+              "RelativeToolTip": "Lab3\\Bai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:21:34.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Bai2.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai2.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Bai2.cs",
+              "RelativeToolTip": "Lab3\\Bai2.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:20:38.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai2.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Bai2.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai2.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Bai2.cs [Design]",
+              "RelativeToolTip": "Lab3\\Bai2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:19:57.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Lab3\\Dashboard.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Lab3\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:18:39.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UDPServer.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\UDPServer.cs",
+              "RelativeDocumentMoniker": "Lab3\\UDPServer.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\UDPServer.cs",
+              "RelativeToolTip": "Lab3\\UDPServer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:17:36.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UDPClient.cs",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\UDPClient.cs",
+              "RelativeDocumentMoniker": "Lab3\\UDPClient.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\UDPClient.cs",
+              "RelativeToolTip": "Lab3\\UDPClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:16:53.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UDPServer.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\UDPServer.cs",
+              "RelativeDocumentMoniker": "Lab3\\UDPServer.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\UDPServer.cs [Design]",
+              "RelativeToolTip": "Lab3\\UDPServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:16:36.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UDPClient.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\UDPClient.cs",
+              "RelativeDocumentMoniker": "Lab3\\UDPClient.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\UDPClient.cs [Design]",
+              "RelativeToolTip": "Lab3\\UDPClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:15:39.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bai1.cs [Design]",
+              "DocumentMoniker": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab3\\Bai1.cs",
+              "ToolTip": "E:\\BASIC NETWORK PROGRAMING\\PRACTICE\\LAB1\\Lab3\\Lab3\\Bai1.cs [Design]",
+              "RelativeToolTip": "Lab3\\Bai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:15:25.555Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

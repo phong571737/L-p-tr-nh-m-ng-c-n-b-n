@@ -169,6 +169,7 @@
             this.WName.Name = "WName";
             this.WName.Size = new System.Drawing.Size(297, 33);
             this.WName.TabIndex = 11;
+            this.WName.TextChanged += new System.EventHandler(this.WName_TextChanged);
             // 
             // label8
             // 

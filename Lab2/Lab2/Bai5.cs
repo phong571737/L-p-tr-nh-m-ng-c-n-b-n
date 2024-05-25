@@ -50,8 +50,6 @@ namespace Lab2
         private Dictionary<string, Film> movies = new Dictionary<string, Film>();
         private Dictionary<string, int> soldTickets = new Dictionary<string, int>();
 
-        
-
         private void UpdateRoomCheckListBox(List<int> rooms)
         {
             checkedListBoxSeat.Items.Clear();
@@ -93,9 +91,7 @@ namespace Lab2
             {
                 MessageBox.Show(ex.Message);
             }
-        }
-        
-        
+        }       
         
         private void LoadMoviesFromFile(string fileName)
         {
@@ -127,10 +123,14 @@ namespace Lab2
             selectedMovie = movie.Name;
         }
 
-
         private void Bai5_Load(object sender, EventArgs e)
         {
             LoadMoviesFromFile("input5.txt");
+        }
+
+        private void WName_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
